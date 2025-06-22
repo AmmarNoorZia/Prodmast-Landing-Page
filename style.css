@@ -59,7 +59,7 @@ button:hover {
   flex: 1;
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  gap: 3rem;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -103,7 +103,7 @@ button:hover {
   border: none;
   border-radius: 22px;
   color: var(--secondary-color);
-  padding: 10px 21px;
+  padding: 12px 21px;
   background: var(--primary-color);
   display: flex;
   align-items: center;
